@@ -25,8 +25,3 @@ Alternate description of the rules per Wikipedia (http://en.wikipedia.org/wiki/T
 3. If at least three points have been scored by each player, and the scores are equal, the score is "deuce".
 
 4. If at least three points have been scored by each side and a player has one more point than his opponent, the score of the game is "advantage" for the player in the lead.
-
-
-# Coding Dojo
-
-* Mis en oeuvre lors d'un Coding Dojo à Toulouse le 8 février 2013 (résultat disponible sur la branche `20130208`)
